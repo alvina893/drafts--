@@ -5,7 +5,10 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="8BLAGcMMT1wBhS8cZV3r-11" value="User / Pengguna" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="10" width="200" height="910" as="geometry" />
+          <mxGeometry x="210" y="10" width="200" height="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="8BLAGcMMT1wBhS8cZV3r-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8BLAGcMMT1wBhS8cZV3r-11" source="8BLAGcMMT1wBhS8cZV3r-1" target="8BLAGcMMT1wBhS8cZV3r-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8BLAGcMMT1wBhS8cZV3r-1" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="8BLAGcMMT1wBhS8cZV3r-11">
           <mxGeometry x="85" y="40" width="30" height="30" as="geometry" />
@@ -19,17 +22,74 @@
         <mxCell id="8BLAGcMMT1wBhS8cZV3r-6" value="Pilih Jam Tayang" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8BLAGcMMT1wBhS8cZV3r-11">
           <mxGeometry x="40" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8BLAGcMMT1wBhS8cZV3r-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8BLAGcMMT1wBhS8cZV3r-11" source="8BLAGcMMT1wBhS8cZV3r-7" target="8BLAGcMMT1wBhS8cZV3r-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8BLAGcMMT1wBhS8cZV3r-7" value="Pilih Tempat Duduk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8BLAGcMMT1wBhS8cZV3r-11">
           <mxGeometry x="40" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8BLAGcMMT1wBhS8cZV3r-8" value="Konfirmasi Booking Tiket" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8BLAGcMMT1wBhS8cZV3r-11">
+        <mxCell id="8BLAGcMMT1wBhS8cZV3r-8" value="Klik Konfirmasi Booking Tiket" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8BLAGcMMT1wBhS8cZV3r-11">
           <mxGeometry x="40" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8BLAGcMMT1wBhS8cZV3r-9" value="Menyelesaikan Pembayaran Tiket" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8BLAGcMMT1wBhS8cZV3r-11">
           <mxGeometry x="40" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8BLAGcMMT1wBhS8cZV3r-10" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="8BLAGcMMT1wBhS8cZV3r-11">
-          <mxGeometry x="85" y="860" width="30" height="30" as="geometry" />
+        <mxCell id="8BLAGcMMT1wBhS8cZV3r-12" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="10" width="200" height="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="8BLAGcMMT1wBhS8cZV3r-14" value="Tampilan Halaman Utama Websie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8BLAGcMMT1wBhS8cZV3r-12">
+          <mxGeometry x="40" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8BLAGcMMT1wBhS8cZV3r-15" value="Tampilkan Rincian Movie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8BLAGcMMT1wBhS8cZV3r-12">
+          <mxGeometry x="40" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8BLAGcMMT1wBhS8cZV3r-16" value="Tampilkan Seating Movie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8BLAGcMMT1wBhS8cZV3r-12">
+          <mxGeometry x="40" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8BLAGcMMT1wBhS8cZV3r-18" value="Tampilkan Pembayaran Tiket" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8BLAGcMMT1wBhS8cZV3r-12">
+          <mxGeometry x="40" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8BLAGcMMT1wBhS8cZV3r-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8BLAGcMMT1wBhS8cZV3r-12" source="8BLAGcMMT1wBhS8cZV3r-19" target="8BLAGcMMT1wBhS8cZV3r-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8BLAGcMMT1wBhS8cZV3r-19" value="Menyimpan Booking Tiket" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8BLAGcMMT1wBhS8cZV3r-12">
+          <mxGeometry x="40" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8BLAGcMMT1wBhS8cZV3r-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8BLAGcMMT1wBhS8cZV3r-12" source="8BLAGcMMT1wBhS8cZV3r-37" target="8BLAGcMMT1wBhS8cZV3r-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8BLAGcMMT1wBhS8cZV3r-37" value="Tampilkan Kode dan QR Kode Tiket" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8BLAGcMMT1wBhS8cZV3r-12">
+          <mxGeometry x="40" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8BLAGcMMT1wBhS8cZV3r-10" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="8BLAGcMMT1wBhS8cZV3r-12">
+          <mxGeometry x="85" y="980" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8BLAGcMMT1wBhS8cZV3r-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8BLAGcMMT1wBhS8cZV3r-3" target="8BLAGcMMT1wBhS8cZV3r-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8BLAGcMMT1wBhS8cZV3r-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8BLAGcMMT1wBhS8cZV3r-14" target="8BLAGcMMT1wBhS8cZV3r-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8BLAGcMMT1wBhS8cZV3r-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8BLAGcMMT1wBhS8cZV3r-5" target="8BLAGcMMT1wBhS8cZV3r-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8BLAGcMMT1wBhS8cZV3r-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8BLAGcMMT1wBhS8cZV3r-15" target="8BLAGcMMT1wBhS8cZV3r-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8BLAGcMMT1wBhS8cZV3r-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8BLAGcMMT1wBhS8cZV3r-6" target="8BLAGcMMT1wBhS8cZV3r-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8BLAGcMMT1wBhS8cZV3r-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8BLAGcMMT1wBhS8cZV3r-16" target="8BLAGcMMT1wBhS8cZV3r-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8BLAGcMMT1wBhS8cZV3r-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8BLAGcMMT1wBhS8cZV3r-8" target="8BLAGcMMT1wBhS8cZV3r-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8BLAGcMMT1wBhS8cZV3r-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8BLAGcMMT1wBhS8cZV3r-18" target="8BLAGcMMT1wBhS8cZV3r-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8BLAGcMMT1wBhS8cZV3r-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8BLAGcMMT1wBhS8cZV3r-9" target="8BLAGcMMT1wBhS8cZV3r-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
