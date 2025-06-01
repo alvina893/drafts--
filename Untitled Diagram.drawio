@@ -235,7 +235,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ega_BnCM-tAQM1q2orvk-1" value="Pengguna" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="30" width="240" height="1075" as="geometry" />
+          <mxGeometry x="30" y="30" width="240" height="930" as="geometry" />
         </mxCell>
         <mxCell id="Ega_BnCM-tAQM1q2orvk-2" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-1">
           <mxGeometry x="105" y="40" width="30" height="30" as="geometry" />
@@ -273,7 +273,7 @@
           <mxGeometry x="65" y="110" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ega_BnCM-tAQM1q2orvk-18" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="30" width="240" height="1075" as="geometry" />
+          <mxGeometry x="270" y="30" width="240" height="930" as="geometry" />
         </mxCell>
         <mxCell id="Ega_BnCM-tAQM1q2orvk-19" value="Tampilkan form login" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-18">
           <mxGeometry x="60" y="115" width="120" height="60" as="geometry" />
@@ -297,7 +297,7 @@
         <mxCell id="p6Qbr1NBJHCF4PyfN_ir-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-18">
           <mxGeometry x="107.5" y="600" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ega_BnCM-tAQM1q2orvk-23" value="Pengguna lanjut ke flow Cari Kerja Sampingan" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-18">
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-23" value="Pengguna lanjut ke flow Side Job" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-18">
           <mxGeometry x="40" y="820" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ega_BnCM-tAQM1q2orvk-22" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-18">
