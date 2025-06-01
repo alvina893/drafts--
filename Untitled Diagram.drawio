@@ -167,7 +167,7 @@
         <mxCell id="p6Qbr1NBJHCF4PyfN_ir-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-18">
           <mxGeometry x="107.5" y="600" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ega_BnCM-tAQM1q2orvk-23" value="Pengguna lanjut ke flow Side Job" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-18">
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-23" value="Pengguna lanjut ke flow Cari Side Job" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-18">
           <mxGeometry x="40" y="850" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ega_BnCM-tAQM1q2orvk-22" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-18">
