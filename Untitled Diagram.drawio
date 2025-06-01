@@ -230,12 +230,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="daFUHFsZ5xLmopuaBHS1" name="Page-3">
-    <mxGraphModel dx="793" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1744" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ega_BnCM-tAQM1q2orvk-1" value="Pengguna" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="30" width="417.5" height="1075" as="geometry" />
+          <mxGeometry x="30" y="30" width="240" height="1075" as="geometry" />
         </mxCell>
         <mxCell id="Ega_BnCM-tAQM1q2orvk-2" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-1">
           <mxGeometry x="105" y="40" width="30" height="30" as="geometry" />
