@@ -16,7 +16,7 @@
         <mxCell id="gltYfRJmKmL3rBifxeSQ-4" value="Pilih bidang side job yang diminati" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gltYfRJmKmL3rBifxeSQ-0">
           <mxGeometry x="40" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gltYfRJmKmL3rBifxeSQ-5" value="Isi jam yang dapat diluangkan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gltYfRJmKmL3rBifxeSQ-0">
+        <mxCell id="gltYfRJmKmL3rBifxeSQ-5" value="Pilih jangka waktu yang dapat diluangkan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gltYfRJmKmL3rBifxeSQ-0">
           <mxGeometry x="40" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gltYfRJmKmL3rBifxeSQ-1" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
