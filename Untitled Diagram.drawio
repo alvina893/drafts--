@@ -206,7 +206,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BasZoOUslh3Z4QIlWTKf-1" value="Simpan data pengguna ke database" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="O-WpfdAzm7rux0rUDLRN-23">
-          <mxGeometry x="67.5" y="745" width="110" height="130" as="geometry" />
+          <mxGeometry x="67.5" y="740" width="110" height="130" as="geometry" />
         </mxCell>
         <mxCell id="_aMrWNKpD7MKxchhJM8L-1" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="O-WpfdAzm7rux0rUDLRN-23">
           <mxGeometry x="107.5" y="910" width="30" height="30" as="geometry" />
