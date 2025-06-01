@@ -294,6 +294,11 @@
         <mxCell id="QQTJ_BPgHD4gL9o8M6j9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Ega_BnCM-tAQM1q2orvk-18" source="p6Qbr1NBJHCF4PyfN_ir-1" target="p6Qbr1NBJHCF4PyfN_ir-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QQTJ_BPgHD4gL9o8M6j9-4" value="benar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QQTJ_BPgHD4gL9o8M6j9-2">
+          <mxGeometry x="-0.1735" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="p6Qbr1NBJHCF4PyfN_ir-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-18">
           <mxGeometry x="107.5" y="600" width="30" height="30" as="geometry" />
         </mxCell>
@@ -301,7 +306,7 @@
           <mxGeometry x="40" y="820" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ega_BnCM-tAQM1q2orvk-22" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-18">
-          <mxGeometry x="107.5" y="760" width="30" height="30" as="geometry" />
+          <mxGeometry x="107.5" y="770" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ega_BnCM-tAQM1q2orvk-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;dashed=1;" edge="1" parent="Ega_BnCM-tAQM1q2orvk-18" source="Ega_BnCM-tAQM1q2orvk-22" target="Ega_BnCM-tAQM1q2orvk-23">
           <mxGeometry relative="1" as="geometry" />
@@ -310,7 +315,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6Qbr1NBJHCF4PyfN_ir-6" value="Tampil Form Preferensi Side Jobs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-18">
-          <mxGeometry x="62.5" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="62.5" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ega_BnCM-tAQM1q2orvk-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=110;exitDy=34.5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="QQTJ_BPgHD4gL9o8M6j9-1" target="Ega_BnCM-tAQM1q2orvk-19">
           <mxGeometry relative="1" as="geometry">
