@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="gltYfRJmKmL3rBifxeSQ-0" value="Pengguna" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="20" width="240" height="1060" as="geometry" />
+          <mxGeometry x="40" y="20" width="240" height="1100" as="geometry" />
         </mxCell>
         <mxCell id="gltYfRJmKmL3rBifxeSQ-2" value="Pengguna sudah login" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="gltYfRJmKmL3rBifxeSQ-0">
           <mxGeometry x="80" y="50" width="80" height="50" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="60" y="1010" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gltYfRJmKmL3rBifxeSQ-1" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="20" width="240" height="1060" as="geometry" />
+          <mxGeometry x="280" y="20" width="240" height="1100" as="geometry" />
         </mxCell>
         <mxCell id="gltYfRJmKmL3rBifxeSQ-3" value="Tampilkan form preferensi side job" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gltYfRJmKmL3rBifxeSQ-1">
           <mxGeometry x="40" y="100" width="120" height="60" as="geometry" />
