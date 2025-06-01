@@ -140,7 +140,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="O-WpfdAzm7rux0rUDLRN-1" value="Pengguna" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="35" width="240" height="1100" as="geometry" />
+          <mxGeometry x="20" y="35" width="240" height="1075" as="geometry" />
         </mxCell>
         <mxCell id="O-WpfdAzm7rux0rUDLRN-21" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="O-WpfdAzm7rux0rUDLRN-1">
           <mxGeometry x="105" y="40" width="30" height="30" as="geometry" />
@@ -197,7 +197,7 @@
           <mxGeometry x="60" y="775" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O-WpfdAzm7rux0rUDLRN-23" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="35" width="240" height="1100" as="geometry" />
+          <mxGeometry x="260" y="35" width="240" height="1075" as="geometry" />
         </mxCell>
         <mxCell id="O-WpfdAzm7rux0rUDLRN-36" value="Tampilkan form signup" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="O-WpfdAzm7rux0rUDLRN-23">
           <mxGeometry x="60" y="105" width="120" height="60" as="geometry" />
