@@ -135,7 +135,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dTpc4IE6bqlORCIorJSy" name="Page-2">
-    <mxGraphModel dx="2491" dy="1231" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="281" dy="139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,14 +145,17 @@
         <mxCell id="O-WpfdAzm7rux0rUDLRN-21" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="O-WpfdAzm7rux0rUDLRN-1">
           <mxGeometry x="105" y="40" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O-WpfdAzm7rux0rUDLRN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="O-WpfdAzm7rux0rUDLRN-1" source="O-WpfdAzm7rux0rUDLRN-21">
+        <mxCell id="O-WpfdAzm7rux0rUDLRN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="O-WpfdAzm7rux0rUDLRN-1" source="O-WpfdAzm7rux0rUDLRN-21" target="O-WpfdAzm7rux0rUDLRN-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="120" y="80" />
-              <mxPoint x="120" y="80" />
+              <mxPoint x="120" y="95" />
+              <mxPoint x="120" y="95" />
             </Array>
             <mxPoint x="120" y="100" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="O-WpfdAzm7rux0rUDLRN-35" value="Buka aplikasi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="O-WpfdAzm7rux0rUDLRN-1">
+          <mxGeometry x="60" y="105" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O-WpfdAzm7rux0rUDLRN-23" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="35" width="240" height="1100" as="geometry" />
