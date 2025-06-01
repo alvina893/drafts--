@@ -230,10 +230,97 @@
     </mxGraphModel>
   </diagram>
   <diagram id="daFUHFsZ5xLmopuaBHS1" name="Page-3">
-    <mxGraphModel dx="872" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1938" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-1" value="Pengguna" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="240" height="1075" as="geometry" />
+        </mxCell>
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-2" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-1">
+          <mxGeometry x="105" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Ega_BnCM-tAQM1q2orvk-1" source="Ega_BnCM-tAQM1q2orvk-2" target="Ega_BnCM-tAQM1q2orvk-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="95" />
+              <mxPoint x="120" y="95" />
+            </Array>
+            <mxPoint x="120" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-4" value="Buka aplikasi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-1">
+          <mxGeometry x="60" y="105" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Ega_BnCM-tAQM1q2orvk-1" source="Ega_BnCM-tAQM1q2orvk-6" target="Ega_BnCM-tAQM1q2orvk-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-6" value="Isi Nama" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-1">
+          <mxGeometry x="60" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Ega_BnCM-tAQM1q2orvk-1" source="Ega_BnCM-tAQM1q2orvk-8" target="Ega_BnCM-tAQM1q2orvk-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-8" value="Isi Tanggal Lahir" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-1">
+          <mxGeometry x="60" y="315" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Ega_BnCM-tAQM1q2orvk-1" source="Ega_BnCM-tAQM1q2orvk-10" target="Ega_BnCM-tAQM1q2orvk-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-10" value="Pilih Jenis Kelamin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-1">
+          <mxGeometry x="60" y="415" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Ega_BnCM-tAQM1q2orvk-1" source="Ega_BnCM-tAQM1q2orvk-12" target="Ega_BnCM-tAQM1q2orvk-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-12" value="Isi Nomor Telpon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-1">
+          <mxGeometry x="60" y="505" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Ega_BnCM-tAQM1q2orvk-1" source="Ega_BnCM-tAQM1q2orvk-14" target="Ega_BnCM-tAQM1q2orvk-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-14" value="Isi Email" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-1">
+          <mxGeometry x="60" y="595" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Ega_BnCM-tAQM1q2orvk-1" source="Ega_BnCM-tAQM1q2orvk-16" target="Ega_BnCM-tAQM1q2orvk-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-16" value="Isi Password Akun" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-1">
+          <mxGeometry x="60" y="685" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-17" value="Klik &#39;Submit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-1">
+          <mxGeometry x="60" y="775" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-18" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="30" width="240" height="1075" as="geometry" />
+        </mxCell>
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-19" value="Tampilkan form signup" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-18">
+          <mxGeometry x="60" y="105" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Ega_BnCM-tAQM1q2orvk-18" source="Ega_BnCM-tAQM1q2orvk-21" target="Ega_BnCM-tAQM1q2orvk-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-21" value="Simpan data pengguna ke database" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-18">
+          <mxGeometry x="67.5" y="740" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-22" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-18">
+          <mxGeometry x="107.5" y="910" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-23" value="Pengguna lanjut ke flow Login" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-18">
+          <mxGeometry x="62.5" y="980" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;dashed=1;" edge="1" parent="Ega_BnCM-tAQM1q2orvk-18" source="Ega_BnCM-tAQM1q2orvk-22" target="Ega_BnCM-tAQM1q2orvk-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ega_BnCM-tAQM1q2orvk-4" target="Ega_BnCM-tAQM1q2orvk-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ega_BnCM-tAQM1q2orvk-19" target="Ega_BnCM-tAQM1q2orvk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ega_BnCM-tAQM1q2orvk-17" target="Ega_BnCM-tAQM1q2orvk-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
