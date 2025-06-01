@@ -240,17 +240,11 @@
         <mxCell id="Ega_BnCM-tAQM1q2orvk-2" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-1">
           <mxGeometry x="105" y="40" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ega_BnCM-tAQM1q2orvk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Ega_BnCM-tAQM1q2orvk-1" source="Ega_BnCM-tAQM1q2orvk-2" target="Ega_BnCM-tAQM1q2orvk-4">
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Ega_BnCM-tAQM1q2orvk-1" source="Ega_BnCM-tAQM1q2orvk-2" target="QQTJ_BPgHD4gL9o8M6j9-1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="120" y="95" />
-              <mxPoint x="120" y="95" />
-            </Array>
-            <mxPoint x="120" y="100" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="120" y="104.99999999999989" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Ega_BnCM-tAQM1q2orvk-4" value="Buka aplikasi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-1">
-          <mxGeometry x="60" y="105" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ega_BnCM-tAQM1q2orvk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Ega_BnCM-tAQM1q2orvk-1" source="Ega_BnCM-tAQM1q2orvk-6" target="Ega_BnCM-tAQM1q2orvk-16">
           <mxGeometry relative="1" as="geometry">
@@ -275,11 +269,14 @@
         <mxCell id="Ega_BnCM-tAQM1q2orvk-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Ega_BnCM-tAQM1q2orvk-1" source="Ega_BnCM-tAQM1q2orvk-16" target="Ega_BnCM-tAQM1q2orvk-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QQTJ_BPgHD4gL9o8M6j9-1" value="Pengguna sudah signup" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-1">
+          <mxGeometry x="65" y="110" width="110" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="Ega_BnCM-tAQM1q2orvk-18" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="30" width="240" height="1075" as="geometry" />
         </mxCell>
         <mxCell id="Ega_BnCM-tAQM1q2orvk-19" value="Tampilkan form login" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-18">
-          <mxGeometry x="60" y="105" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="115" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p6Qbr1NBJHCF4PyfN_ir-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Ega_BnCM-tAQM1q2orvk-18" source="p6Qbr1NBJHCF4PyfN_ir-1" target="Ega_BnCM-tAQM1q2orvk-19">
           <mxGeometry relative="1" as="geometry">
@@ -306,8 +303,13 @@
         <mxCell id="Ega_BnCM-tAQM1q2orvk-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;dashed=1;" edge="1" parent="Ega_BnCM-tAQM1q2orvk-18" source="Ega_BnCM-tAQM1q2orvk-22" target="Ega_BnCM-tAQM1q2orvk-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ega_BnCM-tAQM1q2orvk-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ega_BnCM-tAQM1q2orvk-4" target="Ega_BnCM-tAQM1q2orvk-19">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="p6Qbr1NBJHCF4PyfN_ir-6" value="Klik &#39;Login" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ega_BnCM-tAQM1q2orvk-18">
+          <mxGeometry x="62.5" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ega_BnCM-tAQM1q2orvk-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=110;exitDy=34.5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="QQTJ_BPgHD4gL9o8M6j9-1" target="Ega_BnCM-tAQM1q2orvk-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="164.9999999999999" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ega_BnCM-tAQM1q2orvk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ega_BnCM-tAQM1q2orvk-19" target="Ega_BnCM-tAQM1q2orvk-6">
           <mxGeometry relative="1" as="geometry" />
@@ -318,11 +320,6 @@
               <mxPoint x="392" y="620" />
               <mxPoint x="392" y="620" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="p6Qbr1NBJHCF4PyfN_ir-2" value="benar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ega_BnCM-tAQM1q2orvk-20">
-          <mxGeometry x="0.0132" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
