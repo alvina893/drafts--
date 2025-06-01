@@ -84,7 +84,7 @@
         <mxCell id="gltYfRJmKmL3rBifxeSQ-1" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="20" width="240" height="1100" as="geometry" />
         </mxCell>
-        <mxCell id="gltYfRJmKmL3rBifxeSQ-3" value="Tampilkan form preferensi side job" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gltYfRJmKmL3rBifxeSQ-1">
+        <mxCell id="gltYfRJmKmL3rBifxeSQ-3" value="Tampilkan form &#39;Isi Preferensi Side Job&#39;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gltYfRJmKmL3rBifxeSQ-1">
           <mxGeometry x="40" y="104" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gltYfRJmKmL3rBifxeSQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gltYfRJmKmL3rBifxeSQ-1" target="gltYfRJmKmL3rBifxeSQ-15">
