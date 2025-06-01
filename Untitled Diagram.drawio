@@ -43,7 +43,7 @@
           <mxGeometry x="105" y="620" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gltYfRJmKmL3rBifxeSQ-20" value="Klik &#39;Refresh&#39;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gltYfRJmKmL3rBifxeSQ-0">
-          <mxGeometry x="110" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gltYfRJmKmL3rBifxeSQ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gltYfRJmKmL3rBifxeSQ-0" source="gltYfRJmKmL3rBifxeSQ-27" target="gltYfRJmKmL3rBifxeSQ-30">
           <mxGeometry relative="1" as="geometry" />
