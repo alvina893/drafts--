@@ -202,7 +202,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="646" dy="319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="918" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -394,7 +394,7 @@
         <mxCell id="DXsiHULCf7htwdBiCOHx-23" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="20" width="240" height="1100" as="geometry" />
         </mxCell>
-        <mxCell id="TTx5J9ClfcN1WT9waO_d-1" value="Tampilkan form &#39;Isi Preferensi Side Job&#39;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DXsiHULCf7htwdBiCOHx-23">
+        <mxCell id="TTx5J9ClfcN1WT9waO_d-1" value="Tampilkan Chat dengan Recruiter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DXsiHULCf7htwdBiCOHx-23">
           <mxGeometry x="60" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
