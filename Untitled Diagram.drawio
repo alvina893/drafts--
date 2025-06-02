@@ -309,7 +309,7 @@
         <mxCell id="gltYfRJmKmL3rBifxeSQ-33" value="Simpan preferensi side job untuk pengguna ini pada database" style="shape=datastore;whiteSpace=wrap;html=1;" parent="gltYfRJmKmL3rBifxeSQ-1" vertex="1">
           <mxGeometry x="65" y="389" width="110" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="RMJDktA6qya6PvSArDZM-2" value="Tampilkan job description side job" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gltYfRJmKmL3rBifxeSQ-1">
+        <mxCell id="RMJDktA6qya6PvSArDZM-2" value="Tampilkan job description untuk side job" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gltYfRJmKmL3rBifxeSQ-1">
           <mxGeometry x="55" y="830" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gltYfRJmKmL3rBifxeSQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=110;exitDy=34.5;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gltYfRJmKmL3rBifxeSQ-2" target="gltYfRJmKmL3rBifxeSQ-3" edge="1">
