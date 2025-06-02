@@ -283,7 +283,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RMJDktA6qya6PvSArDZM-0" value="Tampilkan semua side job yang sesuai / mendekati preferensi pengguna" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gltYfRJmKmL3rBifxeSQ-0">
+        <mxCell id="RMJDktA6qya6PvSArDZM-0" value="Pilih satu side job" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gltYfRJmKmL3rBifxeSQ-0">
           <mxGeometry x="55" y="710" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gltYfRJmKmL3rBifxeSQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="gltYfRJmKmL3rBifxeSQ-0" source="RMJDktA6qya6PvSArDZM-0" target="gltYfRJmKmL3rBifxeSQ-18" edge="1">
