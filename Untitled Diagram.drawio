@@ -242,7 +242,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gltYfRJmKmL3rBifxeSQ-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="gltYfRJmKmL3rBifxeSQ-0" vertex="1">
-          <mxGeometry x="100" y="810" width="30" height="30" as="geometry" />
+          <mxGeometry x="105" y="810" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gltYfRJmKmL3rBifxeSQ-20" value="Klik &#39;Refresh&#39;" style="rounded=1;whiteSpace=wrap;html=1;" parent="gltYfRJmKmL3rBifxeSQ-0" vertex="1">
           <mxGeometry x="100" y="880" width="120" height="60" as="geometry" />
@@ -283,6 +283,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="RMJDktA6qya6PvSArDZM-0" value="Tampilkan semua side job yang sesuai / mendekati preferensi pengguna" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gltYfRJmKmL3rBifxeSQ-0">
+          <mxGeometry x="55" y="710" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gltYfRJmKmL3rBifxeSQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="gltYfRJmKmL3rBifxeSQ-0" source="RMJDktA6qya6PvSArDZM-0" target="gltYfRJmKmL3rBifxeSQ-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gltYfRJmKmL3rBifxeSQ-1" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="20" width="240" height="1180" as="geometry" />
         </mxCell>
@@ -321,9 +327,6 @@
             <mxPoint x="300" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gltYfRJmKmL3rBifxeSQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RMJDktA6qya6PvSArDZM-0" target="gltYfRJmKmL3rBifxeSQ-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="gltYfRJmKmL3rBifxeSQ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gltYfRJmKmL3rBifxeSQ-20" target="gltYfRJmKmL3rBifxeSQ-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="465.0000000000002" y="500" as="targetPoint" />
@@ -342,9 +345,6 @@
               <mxPoint x="250" y="760" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="RMJDktA6qya6PvSArDZM-0" value="Tampilkan semua side job yang sesuai / mendekati preferensi pengguna" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="95" y="730" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
