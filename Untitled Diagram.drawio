@@ -202,7 +202,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1585" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1938" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -344,6 +344,14 @@
         <mxCell id="DXsiHULCf7htwdBiCOHx-1" value="Pengguna" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="20" width="240" height="1100" as="geometry" />
         </mxCell>
+        <mxCell id="DXsiHULCf7htwdBiCOHx-2" value="Pengguna sudah login" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="DXsiHULCf7htwdBiCOHx-1">
+          <mxGeometry x="65" y="100" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DXsiHULCf7htwdBiCOHx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="DXsiHULCf7htwdBiCOHx-1" target="DXsiHULCf7htwdBiCOHx-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="75" y="970" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DXsiHULCf7htwdBiCOHx-18" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="DXsiHULCf7htwdBiCOHx-1">
           <mxGeometry x="60" y="1010" width="30" height="30" as="geometry" />
         </mxCell>
@@ -356,13 +364,12 @@
         <mxCell id="DXsiHULCf7htwdBiCOHx-21" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="DXsiHULCf7htwdBiCOHx-1">
           <mxGeometry x="105" y="40" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DXsiHULCf7htwdBiCOHx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="DXsiHULCf7htwdBiCOHx-1" source="DXsiHULCf7htwdBiCOHx-21">
+        <mxCell id="DXsiHULCf7htwdBiCOHx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="DXsiHULCf7htwdBiCOHx-1" source="DXsiHULCf7htwdBiCOHx-21" target="DXsiHULCf7htwdBiCOHx-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="120" y="80" />
               <mxPoint x="120" y="80" />
             </Array>
-            <mxPoint x="120" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DXsiHULCf7htwdBiCOHx-23" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
