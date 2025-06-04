@@ -455,7 +455,7 @@
         <mxCell id="ydMXkO9zH7yOeL6CbVm8-8" value="Recruiter" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="290" y="35" width="240" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="ydMXkO9zH7yOeL6CbVm8-9" value="Tampilkan Chat dengan Recruiter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ydMXkO9zH7yOeL6CbVm8-8">
+        <mxCell id="ydMXkO9zH7yOeL6CbVm8-9" value="Menerima chat dan CV pelamar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ydMXkO9zH7yOeL6CbVm8-8">
           <mxGeometry x="60" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ydMXkO9zH7yOeL6CbVm8-10" value="Meneruskan chat dan CV ke recruiter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ydMXkO9zH7yOeL6CbVm8-8">
