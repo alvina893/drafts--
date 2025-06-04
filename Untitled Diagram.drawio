@@ -443,8 +443,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFSerdRFVoz_hC2Wp1Zz-6" value="Kirim chat pelamar tidak diterima lewat chat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ydMXkO9zH7yOeL6CbVm8-1">
-          <mxGeometry x="55" y="415" width="120" height="60" as="geometry" />
+        <mxCell id="TFSerdRFVoz_hC2Wp1Zz-6" value="Teruskan pemberitahuan pelamar tidak diterima lewat chat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ydMXkO9zH7yOeL6CbVm8-1">
+          <mxGeometry x="52.5" y="400" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TFSerdRFVoz_hC2Wp1Zz-8" value="Kirim chat pelamar dipertimbangkan untuk side job-nya" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ydMXkO9zH7yOeL6CbVm8-1">
           <mxGeometry x="100" y="505" width="120" height="60" as="geometry" />
@@ -487,13 +487,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q-SGVkCC0whiWwYt2Dh_-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="ydMXkO9zH7yOeL6CbVm8-8" vertex="1">
-          <mxGeometry x="140" y="295" width="30" height="30" as="geometry" />
+          <mxGeometry x="140" y="280" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q-SGVkCC0whiWwYt2Dh_-2" value="Klik &#39;Tolak pelamar&#39;" style="rounded=1;whiteSpace=wrap;html=1;" parent="ydMXkO9zH7yOeL6CbVm8-8" vertex="1">
-          <mxGeometry x="20" y="355" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ydMXkO9zH7yOeL6CbVm8-7" value="Klik &#39;Lanjut komunikasi dengan pelamar&#39;" style="rounded=1;whiteSpace=wrap;html=1;" parent="ydMXkO9zH7yOeL6CbVm8-8" vertex="1">
-          <mxGeometry x="170" y="355" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ydMXkO9zH7yOeL6CbVm8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=110;exitDy=34.5;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ydMXkO9zH7yOeL6CbVm8-2" target="ydMXkO9zH7yOeL6CbVm8-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -515,25 +515,14 @@
         <mxCell id="TFSerdRFVoz_hC2Wp1Zz-10" value="Pengguna" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry width="240" height="655" as="geometry" />
         </mxCell>
-        <mxCell id="TFSerdRFVoz_hC2Wp1Zz-11" value="Sistem meneruskan chat dan CV ke pelamar" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="TFSerdRFVoz_hC2Wp1Zz-10">
-          <mxGeometry x="65" y="96" width="110" height="60" as="geometry" />
+        <mxCell id="eb6OuoFgazZzikqT68wz-1" value="Terima chat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TFSerdRFVoz_hC2Wp1Zz-10">
+          <mxGeometry x="60" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFSerdRFVoz_hC2Wp1Zz-12" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="TFSerdRFVoz_hC2Wp1Zz-10">
-          <mxGeometry x="105" y="40" width="30" height="30" as="geometry" />
+        <mxCell id="eb6OuoFgazZzikqT68wz-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TFSerdRFVoz_hC2Wp1Zz-6" target="eb6OuoFgazZzikqT68wz-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFSerdRFVoz_hC2Wp1Zz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="TFSerdRFVoz_hC2Wp1Zz-10" source="TFSerdRFVoz_hC2Wp1Zz-12" target="TFSerdRFVoz_hC2Wp1Zz-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="120" y="80" />
-              <mxPoint x="120" y="80" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TFSerdRFVoz_hC2Wp1Zz-14" value="Kirim chat pelamar tidak diterima lewat chat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TFSerdRFVoz_hC2Wp1Zz-10">
-          <mxGeometry x="55" y="415" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TFSerdRFVoz_hC2Wp1Zz-15" value="Kirim chat pelamar dipertimbangkan untuk side job-nya" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TFSerdRFVoz_hC2Wp1Zz-10">
-          <mxGeometry x="100" y="505" width="120" height="60" as="geometry" />
+        <mxCell id="eb6OuoFgazZzikqT68wz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TFSerdRFVoz_hC2Wp1Zz-8" target="eb6OuoFgazZzikqT68wz-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
