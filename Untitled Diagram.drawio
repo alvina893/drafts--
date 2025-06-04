@@ -467,6 +467,9 @@
         <mxCell id="Q-SGVkCC0whiWwYt2Dh_-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="ydMXkO9zH7yOeL6CbVm8-8">
           <mxGeometry x="105" y="295" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Q-SGVkCC0whiWwYt2Dh_-2" value="Terima pelamar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ydMXkO9zH7yOeL6CbVm8-8">
+          <mxGeometry x="30" y="355" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="ydMXkO9zH7yOeL6CbVm8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=110;exitDy=34.5;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ydMXkO9zH7yOeL6CbVm8-2" target="ydMXkO9zH7yOeL6CbVm8-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
