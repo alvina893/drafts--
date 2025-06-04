@@ -422,7 +422,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="d7gid2aX0vG4lN4cakQG" name="Page-5">
-    <mxGraphModel dx="1342" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1090" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -442,6 +442,9 @@
               <mxPoint x="120" y="80" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TFSerdRFVoz_hC2Wp1Zz-6" value="Kirim chat pelamar tidak diterima lewat chat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ydMXkO9zH7yOeL6CbVm8-1">
+          <mxGeometry x="60" y="415" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ydMXkO9zH7yOeL6CbVm8-8" value="Recruiter" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="290" y="35" width="310" height="550" as="geometry" />
@@ -467,7 +470,7 @@
         <mxCell id="TFSerdRFVoz_hC2Wp1Zz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ydMXkO9zH7yOeL6CbVm8-8" source="Q-SGVkCC0whiWwYt2Dh_-1" target="ydMXkO9zH7yOeL6CbVm8-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFSerdRFVoz_hC2Wp1Zz-3" value="tidak sesuai" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TFSerdRFVoz_hC2Wp1Zz-1">
+        <mxCell id="TFSerdRFVoz_hC2Wp1Zz-3" value="sesuai" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TFSerdRFVoz_hC2Wp1Zz-1">
           <mxGeometry x="0.4488" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -475,7 +478,7 @@
         <mxCell id="TFSerdRFVoz_hC2Wp1Zz-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ydMXkO9zH7yOeL6CbVm8-8" source="Q-SGVkCC0whiWwYt2Dh_-1" target="Q-SGVkCC0whiWwYt2Dh_-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFSerdRFVoz_hC2Wp1Zz-4" value="sesuai" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TFSerdRFVoz_hC2Wp1Zz-2">
+        <mxCell id="TFSerdRFVoz_hC2Wp1Zz-4" value="tidak&amp;nbsp;sesuai" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TFSerdRFVoz_hC2Wp1Zz-2">
           <mxGeometry x="0.5103" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -483,10 +486,10 @@
         <mxCell id="Q-SGVkCC0whiWwYt2Dh_-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="ydMXkO9zH7yOeL6CbVm8-8" vertex="1">
           <mxGeometry x="140" y="295" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q-SGVkCC0whiWwYt2Dh_-2" value="Klik &#39;Lanjut komunikasi dengan pelamar&#39;" style="rounded=1;whiteSpace=wrap;html=1;" parent="ydMXkO9zH7yOeL6CbVm8-8" vertex="1">
+        <mxCell id="Q-SGVkCC0whiWwYt2Dh_-2" value="Klik &#39;Tolak pelamar&#39;" style="rounded=1;whiteSpace=wrap;html=1;" parent="ydMXkO9zH7yOeL6CbVm8-8" vertex="1">
           <mxGeometry x="20" y="355" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ydMXkO9zH7yOeL6CbVm8-7" value="Klik &#39;Tolak pelamar&#39;" style="rounded=1;whiteSpace=wrap;html=1;" parent="ydMXkO9zH7yOeL6CbVm8-8" vertex="1">
+        <mxCell id="ydMXkO9zH7yOeL6CbVm8-7" value="Klik &#39;Lanjut komunikasi dengan pelamar&#39;" style="rounded=1;whiteSpace=wrap;html=1;" parent="ydMXkO9zH7yOeL6CbVm8-8" vertex="1">
           <mxGeometry x="170" y="355" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ydMXkO9zH7yOeL6CbVm8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=110;exitDy=34.5;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ydMXkO9zH7yOeL6CbVm8-2" target="ydMXkO9zH7yOeL6CbVm8-9" edge="1">
@@ -510,6 +513,9 @@
               <mxPoint x="680" y="415" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TFSerdRFVoz_hC2Wp1Zz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q-SGVkCC0whiWwYt2Dh_-2" target="TFSerdRFVoz_hC2Wp1Zz-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
