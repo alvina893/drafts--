@@ -444,7 +444,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TFSerdRFVoz_hC2Wp1Zz-6" value="Kirim chat pelamar tidak diterima lewat chat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ydMXkO9zH7yOeL6CbVm8-1">
-          <mxGeometry x="30" y="415" width="120" height="60" as="geometry" />
+          <mxGeometry x="55" y="415" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TFSerdRFVoz_hC2Wp1Zz-8" value="Kirim chat pelamar dipertimbangkan untuk side job-nya" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ydMXkO9zH7yOeL6CbVm8-1">
           <mxGeometry x="100" y="505" width="120" height="60" as="geometry" />
