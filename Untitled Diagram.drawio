@@ -484,7 +484,7 @@
         <mxCell id="ydMXkO9zH7yOeL6CbVm8-12" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
           <mxGeometry x="665" y="515" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ydMXkO9zH7yOeL6CbVm8-7" value="Kirim CV" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ydMXkO9zH7yOeL6CbVm8-7" value="Tolak pelamar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ydMXkO9zH7yOeL6CbVm8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ydMXkO9zH7yOeL6CbVm8-7" target="ydMXkO9zH7yOeL6CbVm8-10">
