@@ -514,7 +514,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eb6OuoFgazZzikqT68wz-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="TFSerdRFVoz_hC2Wp1Zz-10" vertex="1">
-          <mxGeometry x="140" y="460" width="30" height="30" as="geometry" />
+          <mxGeometry x="160" y="460" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ydMXkO9zH7yOeL6CbVm8-12" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" parent="TFSerdRFVoz_hC2Wp1Zz-10" vertex="1">
           <mxGeometry x="75" y="640" width="30" height="30" as="geometry" />
