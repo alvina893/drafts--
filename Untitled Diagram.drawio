@@ -392,7 +392,7 @@
         <mxCell id="TTx5J9ClfcN1WT9waO_d-1" value="Tampilkan chat dengan recruiter" style="rounded=1;whiteSpace=wrap;html=1;" parent="DXsiHULCf7htwdBiCOHx-23" vertex="1">
           <mxGeometry x="60" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v_JErXjJs3RCXUjaxlBM-6" value="Meneruskan chat dan CV ke recruiter" style="rounded=1;whiteSpace=wrap;html=1;" parent="DXsiHULCf7htwdBiCOHx-23" vertex="1">
+        <mxCell id="v_JErXjJs3RCXUjaxlBM-6" value="Meneruskan chat, CV dan lamaran kerja ke chat recruiter" style="rounded=1;whiteSpace=wrap;html=1;" parent="DXsiHULCf7htwdBiCOHx-23" vertex="1">
           <mxGeometry x="73" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DXsiHULCf7htwdBiCOHx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="DXsiHULCf7htwdBiCOHx-23" source="v_JErXjJs3RCXUjaxlBM-6" target="DXsiHULCf7htwdBiCOHx-18" edge="1">
