@@ -424,12 +424,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="d7gid2aX0vG4lN4cakQG" name="Page-5">
-    <mxGraphModel dx="1026" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="969" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ydMXkO9zH7yOeL6CbVm8-1" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="240" width="240" height="680" as="geometry" />
+          <mxGeometry x="240" width="240" height="670" as="geometry" />
         </mxCell>
         <mxCell id="ydMXkO9zH7yOeL6CbVm8-2" value="Sistem meneruskan chat dan CV ke pelamar" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" parent="ydMXkO9zH7yOeL6CbVm8-1" vertex="1">
           <mxGeometry x="65" y="96" width="110" height="60" as="geometry" />
@@ -452,7 +452,7 @@
           <mxGeometry x="50" y="505" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ydMXkO9zH7yOeL6CbVm8-8" value="Recruiter" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="480" width="310" height="680" as="geometry" />
+          <mxGeometry x="480" width="310" height="670" as="geometry" />
         </mxCell>
         <mxCell id="ydMXkO9zH7yOeL6CbVm8-9" value="Menerima chat dan CV pelamar" style="rounded=1;whiteSpace=wrap;html=1;" parent="ydMXkO9zH7yOeL6CbVm8-8" vertex="1">
           <mxGeometry x="95" y="100" width="120" height="60" as="geometry" />
@@ -507,7 +507,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TFSerdRFVoz_hC2Wp1Zz-10" value="Pengguna" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
-          <mxGeometry width="240" height="680" as="geometry" />
+          <mxGeometry width="240" height="670" as="geometry" />
         </mxCell>
         <mxCell id="eb6OuoFgazZzikqT68wz-1" value="Terima pemberitahuan ditolak atau diterima" style="rounded=1;whiteSpace=wrap;html=1;" parent="TFSerdRFVoz_hC2Wp1Zz-10" vertex="1">
           <mxGeometry x="30" y="540" width="120" height="60" as="geometry" />
