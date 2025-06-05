@@ -383,7 +383,7 @@
         <mxCell id="v_JErXjJs3RCXUjaxlBM-2" value="Perkenalkan diri dan side job yang diminati" style="rounded=1;whiteSpace=wrap;html=1;" parent="DXsiHULCf7htwdBiCOHx-1" vertex="1">
           <mxGeometry x="60" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v_JErXjJs3RCXUjaxlBM-4" value="Kirim CV" style="rounded=1;whiteSpace=wrap;html=1;" parent="DXsiHULCf7htwdBiCOHx-1" vertex="1">
+        <mxCell id="v_JErXjJs3RCXUjaxlBM-4" value="Kirim CV dan lamaran kerja" style="rounded=1;whiteSpace=wrap;html=1;" parent="DXsiHULCf7htwdBiCOHx-1" vertex="1">
           <mxGeometry x="60" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DXsiHULCf7htwdBiCOHx-23" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
